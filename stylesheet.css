@@ -317,7 +317,10 @@ footer {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+	  height: 850px;
   }
+	
+	
   .lessons .left {
     width: 100%;
   }
