@@ -80,7 +80,22 @@ header {
   text-shadow: 5px 5px rgb(66, 50, 50);
 }
 
+.top-wrapper h2 {
+	font-size: 60px;
+	margin-top: -10px;
+	margin-bottom: -40px;
+	letter-spacing: 15px;
+	text-align: center;
+}
+
+.top-wrapper h3 {
+font-size: 40px;
+text-align: center;
+margin-bottom: 0px;
+}
+
 .top-wrapper p {
+  text-align: center;
   opacity: 0.9;
   font-size: 30px;
   margin-bottom: 5px;
