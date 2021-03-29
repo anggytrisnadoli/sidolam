@@ -313,7 +313,7 @@ footer {
 
   /* Bagian Tentang */
   .lessons {
-	height: 900px;
+	height: 800px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -335,11 +335,10 @@ footer {
   font-size: 20px;
 }
 	
-	
   .lessons .right img {
     margin-top: 20px;
     width: 350px;
-    height: 280px;
+    height: 300px;
     padding-bottom: 61px;
   }
   /* Bagian Daftar Dongeng */
