@@ -313,13 +313,12 @@ footer {
 
   /* Bagian Tentang */
   .lessons {
+	height: 900px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
-	  height: 850px;
+    text-align: center;  
   }
-	
 	
   .lessons .left {
     width: 100%;
@@ -327,6 +326,16 @@ footer {
   .lessons .right {
     width: 100%;
   }
+	
+.lessons .left h2 {
+  font-size: 30px;
+}
+	
+.lessons .left h3 {
+  font-size: 20px;
+}
+	
+	
   .lessons .right img {
     margin-top: 20px;
     width: 350px;
