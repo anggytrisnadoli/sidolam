@@ -115,7 +115,6 @@ header {
 .lessons .left {
   width: 50%;
   float: left;
-  text-align: center;
 }
 
 .lessons .left h1 {
@@ -124,6 +123,7 @@ header {
   font-weight: bold;
   font-size: 50px;
   color: #000000;
+text-align: center;
 }
 
 .lessons .left h2 {
@@ -132,6 +132,7 @@ header {
   font-weight: bold;
   font-size: 30px;
   color: #000000;
+	text-align: center;
 }
 
 .lessons .left h3 {
@@ -140,6 +141,7 @@ header {
   font-weight: bold;
   font-size: 20px;
   color: #000000;
+	text-align: center;
 }
 
 .lessons .left p {
@@ -149,6 +151,7 @@ header {
   font-size: 20px;
   line-height: 35px;
   letter-spacing: 0.1em;
+	text-align: center;
 }
 .lessons a {
   font-family: "Roboto", sans-serif;
